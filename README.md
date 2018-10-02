@@ -66,5 +66,6 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Manpreet | I | IT | |
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
+| Moh. Wahyu S. Putra | I | IT | [https://github.com/waysp](https://hacktoberfest.digitalocean.com/stats/waysp) |
 
 *When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
